@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/2avika05012007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2avika05012007/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/2avika05012007/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/2avika05012007/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/2avika05012007/LeetCode/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
