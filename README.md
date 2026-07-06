@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2avika05012007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2avika05012007/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
