@@ -1,33 +1,28 @@
-import java.util.*;
 class Solution {
     public List<Integer> twoOutOfThree(int[] nums1, int[] nums2, int[] nums3) {
-      List<Integer> list = new ArrayList<>();
-      for(int i = 0; i<nums1.length; i++){
-        for(int j = 0; j<nums2.length; j++){
-            for(int k = 0; k<nums3.length; k++){
-                if (nums1[i] == nums2[j] && nums1[i] == nums3[k]) {
-    if (!list.contains(nums1[i])) {
-        list.add(nums1[i]);
-    }
-}
-else if (nums1[i] == nums2[j]) {
-    if (!list.contains(nums1[i])) {
-        list.add(nums1[i]);
-    }
-}
-else if (nums2[j] == nums3[k]) {
-    if (!list.contains(nums2[j])) {
-        list.add(nums2[j]);   // <-- fixed
-    }
-}
-else if (nums1[i] == nums3[k]) {
-    if (!list.contains(nums1[i])) {
-        list.add(nums1[i]);
-    }
-}
+
+        Set<Integer> s1 = new HashSet<>();
+        Set<Integer> s2 = new HashSet<>();
+        Set<Integer> s3 = new HashSet<>();
+
+        for (int x : nums1) s1.add(x);
+        for (int x : nums2) s2.add(x);
+        for (int x : nums3) s3.add(x);
+
+        List<Integer> ans = new ArrayList<>();
+
+        for (int i = 1; i <= 100; i++) {
+            int count = 0;
+
+            if (s1.contains(i)) count++;
+            if (s2.contains(i)) count++;
+            if (s3.contains(i)) count++;
+
+            if (count >= 2) {
+                ans.add(i);
+            }
         }
-      }
-    } 
-      return list; 
+
+        return ans;
     }
 }
