@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2avika05012007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0414-third-maximum-number](https://github.com/2avika05012007/LeetCode/tree/master/0414-third-maximum-number) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 ## Sorting
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/2avika05012007/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2avika05012007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2avika05012007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
