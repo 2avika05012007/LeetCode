@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/2avika05012007/LeetCode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/2avika05012007/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/2avika05012007/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/2avika05012007/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/2avika05012007/LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/2avika05012007/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
