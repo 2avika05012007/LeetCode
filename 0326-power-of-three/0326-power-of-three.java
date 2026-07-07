@@ -1,9 +1,11 @@
 class Solution {
     public boolean isPowerOfThree(int n) {
-        for(int i = 0; i<100; i++){
+        int i = 0;
+        while(i<100){
             if(Math.pow(3, i) == n){
                 return true;
             }
+            i++;
         }
         return false;
     }
