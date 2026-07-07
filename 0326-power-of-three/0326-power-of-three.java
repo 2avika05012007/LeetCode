@@ -6,6 +6,7 @@ class Solution {
                 return true;
             }
             i++;
+
         }
         return false;
     }
