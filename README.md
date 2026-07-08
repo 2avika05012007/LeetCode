@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/2avika05012007/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/2avika05012007/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
+| [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/2avika05012007/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/2avika05012007/LeetCode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2avika05012007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/2avika05012007/LeetCode/tree/master/0292-nim-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
