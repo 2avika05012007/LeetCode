@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2avika05012007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/2avika05012007/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/2avika05012007/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/2avika05012007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/2avika05012007/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/2avika05012007/LeetCode/tree/master/0326-power-of-three) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2avika05012007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/2avika05012007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -111,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/2avika05012007/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
