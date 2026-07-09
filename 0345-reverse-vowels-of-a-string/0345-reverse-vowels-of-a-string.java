@@ -26,6 +26,7 @@ class Solution {
             left++;
             right--;
         }
-        return new String(arr);
+        String ans = new String(arr);
+        return ans;
     }
 }
