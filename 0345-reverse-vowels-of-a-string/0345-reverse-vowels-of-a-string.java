@@ -9,7 +9,8 @@ class Solution {
         char[] arr = s.toCharArray();
         int left = 0;
         int right = arr.length - 1;
-           while (left < right) {
+
+        while (left < right) {
 
             while (left < right && !isVowel(arr[left])) {
                 left++;
@@ -19,14 +20,14 @@ class Solution {
                 right--;
             }
 
-            char t = arr[left];
+            char temp = arr[left];
             arr[left] = arr[right];
-            arr[right] = t;
+            arr[right] = temp;
 
             left++;
             right--;
         }
-        String ans = new String(arr);
-        return ans;
+
+        return new String(arr);
     }
 }
