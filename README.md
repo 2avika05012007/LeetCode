@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2avika05012007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/2avika05012007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/2avika05012007/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
