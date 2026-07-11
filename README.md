@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/2avika05012007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2avika05012007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
+| [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 ## Sliding Window
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/2avika05012007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2avika05012007/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
@@ -146,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/2avika05012007/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
