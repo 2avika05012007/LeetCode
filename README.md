@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/2avika05012007/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2avika05012007/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1732-find-the-highest-altitude](https://github.com/2avika05012007/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 ## Sorting
 |  |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/2avika05012007/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/2avika05012007/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
