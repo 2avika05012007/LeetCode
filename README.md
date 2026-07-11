@@ -143,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/2avika05012007/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/2avika05012007/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
