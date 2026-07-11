@@ -1,7 +1,7 @@
-import java.util.*;
+
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        Arrays.sort(letters);
+        
         int start = 0;
         int end = letters.length - 1;
         while (start <= end) {
