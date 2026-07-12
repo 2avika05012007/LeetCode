@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2avika05012007/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/2avika05012007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/2avika05012007/LeetCode/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2avika05012007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/2avika05012007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/2avika05012007/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/2avika05012007/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/2avika05012007/LeetCode/tree/master/0283-move-zeroes) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/2avika05012007/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/2avika05012007/LeetCode/tree/master/0605-can-place-flowers) |
 ## Brainteaser
