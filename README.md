@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/2avika05012007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/2avika05012007/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/2avika05012007/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2avika05012007/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/2avika05012007/LeetCode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
