@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/2avika05012007/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/2avika05012007/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/2avika05012007/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/2avika05012007/LeetCode/tree/master/0443-string-compression) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/2avika05012007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2avika05012007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/2avika05012007/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/2avika05012007/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 ## Bit Manipulation
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/2avika05012007/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/2avika05012007/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/2avika05012007/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 ## Binary Search
 |  |
