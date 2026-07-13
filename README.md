@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2avika05012007/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/2avika05012007/LeetCode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/2avika05012007/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/2avika05012007/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/2avika05012007/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/2avika05012007/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/2avika05012007/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/2avika05012007/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/2avika05012007/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
