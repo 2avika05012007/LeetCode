@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/2avika05012007/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/2avika05012007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/2avika05012007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/2avika05012007/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/2avika05012007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/2avika05012007/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2avika05012007/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/2avika05012007/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/2avika05012007/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/2avika05012007/LeetCode/tree/master/0164-maximum-gap) |
+| [0219-contains-duplicate-ii](https://github.com/2avika05012007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2avika05012007/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2avika05012007/LeetCode/tree/master/0287-find-the-duplicate-number) |
