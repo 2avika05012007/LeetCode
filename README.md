@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/2avika05012007/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/2avika05012007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2avika05012007/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/2avika05012007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/2avika05012007/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/2avika05012007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2avika05012007/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/2avika05012007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2avika05012007/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2avika05012007/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/2avika05012007/LeetCode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/2avika05012007/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/2avika05012007/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/2avika05012007/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/2avika05012007/LeetCode/tree/master/0414-third-maximum-number) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/2avika05012007/LeetCode/tree/master/0229-majority-element-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2avika05012007/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Union-Find
 |  |
