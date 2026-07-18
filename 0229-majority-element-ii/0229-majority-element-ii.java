@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
         List<Integer> ans = new ArrayList<>();
