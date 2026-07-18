@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/2avika05012007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/2avika05012007/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/2avika05012007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2avika05012007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/2avika05012007/LeetCode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/2avika05012007/LeetCode/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/2avika05012007/LeetCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/2avika05012007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/2avika05012007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2avika05012007/LeetCode/tree/master/0283-move-zeroes) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/2avika05012007/LeetCode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/2avika05012007/LeetCode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/2avika05012007/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/2avika05012007/LeetCode/tree/master/0414-third-maximum-number) |
