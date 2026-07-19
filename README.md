@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/2avika05012007/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/2avika05012007/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/2avika05012007/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/2avika05012007/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/2avika05012007/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2avika05012007/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/2avika05012007/LeetCode/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/2avika05012007/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/2avika05012007/LeetCode/tree/master/0605-can-place-flowers) |
 ## Brainteaser
