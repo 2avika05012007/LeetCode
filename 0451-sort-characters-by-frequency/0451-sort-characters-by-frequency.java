@@ -14,8 +14,9 @@ class Solution {
         for (Map.Entry<Character, Integer> entry : list) {
             char ch = entry.getKey();
             int freq = entry.getValue();
-            while (freq-- > 0) {
+            while (freq> 0) {
                 ans.append(ch);
+                freq--;
             }
         }
         return ans.toString();
