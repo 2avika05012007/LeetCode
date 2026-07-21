@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/2avika05012007/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
+| [2652-sum-multiples](https://github.com/2avika05012007/LeetCode/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |
