@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/2avika05012007/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2avika05012007/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/2avika05012007/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/2avika05012007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/2avika05012007/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/2avika05012007/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/2avika05012007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/2avika05012007/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/2avika05012007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/2avika05012007/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
