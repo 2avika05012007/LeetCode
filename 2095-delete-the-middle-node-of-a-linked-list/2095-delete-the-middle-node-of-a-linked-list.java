@@ -10,10 +10,11 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
+
         if (head == null || head.next == null) {
             return null;
         }
-        
+
         int size = 0;
         ListNode temp = head;
 
@@ -21,9 +22,10 @@ class Solution {
             size++;
             temp = temp.next;
         }
-        int mid = size / 2;
-        temp = head;
 
+        int mid = size / 2;
+
+        temp = head;
         ListNode pre = null;
 
         for (int i = 0; i < mid; i++) {
