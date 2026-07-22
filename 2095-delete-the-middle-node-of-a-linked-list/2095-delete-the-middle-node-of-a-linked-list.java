@@ -19,19 +19,14 @@ class Solution {
             size++;
             temp = temp.next;
         }
-
         int mid = size / 2;
-
         temp = head;
         ListNode pre = null;
-
         for (int i = 0; i < mid; i++) {
             pre = temp;
             temp = temp.next;
         }
-
         pre.next = temp.next;
-
         return head;
     }
 }
