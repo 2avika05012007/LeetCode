@@ -10,7 +10,7 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         int i = ans.length;
         for(String st : ans){
-            if(ans[i-1] == st){
+            if((ans[i-1]) == st){
                 sb.append(st);
             }
             else{
