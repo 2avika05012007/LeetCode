@@ -3,10 +3,10 @@ class Solution {
         int sum = 0;
         StringBuilder sb = new StringBuilder();
         while (n != 0) {
-            int a = n % 10;
-            if (a != 0) {
-                sum += a;
-                sb.append((char)(a + '0'));
+            int digit = n % 10;
+            if (digit != 0) {
+                sum += digit;
+                sb.append((char)(digit + '0'));
             }
             n /= 10;
         }
