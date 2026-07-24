@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/2avika05012007/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/2avika05012007/LeetCode/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2avika05012007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/2avika05012007/LeetCode/tree/master/2544-alternating-digit-sum) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/2avika05012007/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
 | [2000-reverse-prefix-of-word](https://github.com/2avika05012007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/2avika05012007/LeetCode/tree/master/2390-removing-stars-from-a-string) |
