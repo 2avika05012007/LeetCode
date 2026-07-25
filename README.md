@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/2avika05012007/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2avika05012007/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/2avika05012007/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/2avika05012007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/2avika05012007/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2avika05012007/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2avika05012007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/2avika05012007/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/2avika05012007/LeetCode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/2avika05012007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
+| [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1331-rank-transform-of-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2avika05012007/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2avika05012007/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/2avika05012007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2avika05012007/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Brainteaser
