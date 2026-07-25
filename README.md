@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/2avika05012007/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
+| [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2avika05012007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/2avika05012007/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/2avika05012007/LeetCode/tree/master/2652-sum-multiples) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/2avika05012007/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/1328-break-a-palindrome) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2avika05012007/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
