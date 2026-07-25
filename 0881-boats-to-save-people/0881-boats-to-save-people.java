@@ -11,12 +11,9 @@ class Solution {
                 left++;
                 right--;
             }
-            else if(people[right]<=limit){
+            else{
                 right--;
                 boat++;
-            }
-            else{
-                left++;
             }
             
         }
