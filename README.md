@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/2avika05012007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/2avika05012007/LeetCode/tree/master/0796-rotate-string) |
+| [1328-break-a-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1408-string-matching-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2avika05012007/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2avika05012007/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/2avika05012007/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/1328-break-a-palindrome) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2avika05012007/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 ## Brainteaser
