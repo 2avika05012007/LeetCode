@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/2avika05012007/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/2avika05012007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/2avika05012007/LeetCode/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/2avika05012007/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2avika05012007/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2avika05012007/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2540-minimum-common-value](https://github.com/2avika05012007/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/2avika05012007/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/2avika05012007/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2avika05012007/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/2avika05012007/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2540-minimum-common-value](https://github.com/2avika05012007/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/2avika05012007/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2784-check-if-array-is-good](https://github.com/2avika05012007/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2avika05012007/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/2avika05012007/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2avika05012007/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/2avika05012007/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
