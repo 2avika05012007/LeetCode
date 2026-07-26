@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2avika05012007/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2avika05012007/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/2avika05012007/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/2avika05012007/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2574-left-and-right-sum-differences](https://github.com/2avika05012007/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2784-check-if-array-is-good](https://github.com/2avika05012007/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2avika05012007/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3701-compute-alternating-sum](https://github.com/2avika05012007/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Sorting
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/2avika05012007/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/2avika05012007/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2784-check-if-array-is-good](https://github.com/2avika05012007/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/2avika05012007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
