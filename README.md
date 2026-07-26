@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/2avika05012007/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/2avika05012007/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/2avika05012007/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/2avika05012007/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/2avika05012007/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2avika05012007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
