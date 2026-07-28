@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/2avika05012007/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/2avika05012007/LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/2avika05012007/LeetCode/tree/master/1903-largest-odd-number-in-string) |
