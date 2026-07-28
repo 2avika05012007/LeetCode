@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/2avika05012007/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/2avika05012007/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/2avika05012007/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/2avika05012007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/2avika05012007/LeetCode/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/2avika05012007/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/2avika05012007/LeetCode/tree/master/0796-rotate-string) |
