@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2avika05012007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2544-alternating-digit-sum](https://github.com/2avika05012007/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/2avika05012007/LeetCode/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2avika05012007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2avika05012007/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/2avika05012007/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2avika05012007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/2avika05012007/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/2avika05012007/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/2avika05012007/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2avika05012007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/2avika05012007/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2avika05012007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/2avika05012007/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/2avika05012007/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/2avika05012007/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2avika05012007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Brainteaser
 |  |
 | ------- |
