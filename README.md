@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/2avika05012007/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/2avika05012007/LeetCode/tree/master/0648-replace-words) |
+| [0682-baseball-game](https://github.com/2avika05012007/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/2avika05012007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2avika05012007/LeetCode/tree/master/0739-daily-temperatures) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/2avika05012007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/2avika05012007/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2avika05012007/LeetCode/tree/master/0739-daily-temperatures) |
 | [2000-reverse-prefix-of-word](https://github.com/2avika05012007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/2avika05012007/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/2avika05012007/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/2avika05012007/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/2avika05012007/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/2avika05012007/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
