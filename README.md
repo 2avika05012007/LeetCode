@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/2avika05012007/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2avika05012007/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2avika05012007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/2avika05012007/LeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/2avika05012007/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/2avika05012007/LeetCode/tree/master/0796-rotate-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/2avika05012007/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/2avika05012007/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/2avika05012007/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0648-replace-words](https://github.com/2avika05012007/LeetCode/tree/master/0648-replace-words) |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/2avika05012007/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/2avika05012007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/2avika05012007/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0648-replace-words](https://github.com/2avika05012007/LeetCode/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/2avika05012007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2avika05012007/LeetCode/tree/master/0739-daily-temperatures) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/2avika05012007/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/2avika05012007/LeetCode/tree/master/0648-replace-words) |
 ## Counting
 |  |
 | ------- |
