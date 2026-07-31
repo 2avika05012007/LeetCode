@@ -2,9 +2,7 @@ class Solution {
     public int calPoints(String[] operations) {
         int[] arr = new int[operations.length];
         int i = 0;
-
         for (String st : operations) {
-
             if (st.equals("+")) {
                 arr[i] = arr[i - 1] + arr[i - 2];
                 i++;
@@ -21,12 +19,10 @@ class Solution {
                 i++;
             }
         }
-
         int ans = 0;
         for (int k = 0; k < i; k++) {
             ans += arr[k];
         }
-
         return ans;
     }
 }
