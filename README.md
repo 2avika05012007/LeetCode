@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/2avika05012007/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/2avika05012007/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2avika05012007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2avika05012007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/2avika05012007/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2avika05012007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/2avika05012007/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/2avika05012007/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/2avika05012007/LeetCode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/2avika05012007/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2avika05012007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/2avika05012007/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/2avika05012007/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2784-check-if-array-is-good](https://github.com/2avika05012007/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2avika05012007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2avika05012007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2avika05012007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/2avika05012007/LeetCode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2avika05012007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2avika05012007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/2avika05012007/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2avika05012007/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2833-furthest-point-from-origin](https://github.com/2avika05012007/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/2avika05012007/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Union-Find
 |  |
 | ------- |
