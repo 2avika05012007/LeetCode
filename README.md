@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2avika05012007/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/2avika05012007/LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/2avika05012007/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/2avika05012007/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/2avika05012007/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/2avika05012007/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2avika05012007/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/2avika05012007/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2avika05012007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/2avika05012007/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/2avika05012007/LeetCode/tree/master/0896-monotonic-array) |
 | [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/2avika05012007/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/2avika05012007/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Memoization
 |  |
