@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/2avika05012007/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/2avika05012007/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2avika05012007/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/2avika05012007/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/2avika05012007/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2avika05012007/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2avika05012007/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/2avika05012007/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/2avika05012007/LeetCode/tree/master/1291-sequential-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/2avika05012007/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/2avika05012007/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
