@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/2avika05012007/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/2avika05012007/LeetCode/tree/master/1148-article-views-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/2avika05012007/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/2avika05012007/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/2avika05012007/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/2avika05012007/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/2avika05012007/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
