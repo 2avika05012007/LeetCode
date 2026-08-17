@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/2avika05012007/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/2avika05012007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/2avika05012007/LeetCode/tree/master/1323-maximum-69-number) |
+| [1563-stone-game-v](https://github.com/2avika05012007/LeetCode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/2avika05012007/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2avika05012007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/2avika05012007/LeetCode/tree/master/2029-stone-game-ix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/2avika05012007/LeetCode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/2avika05012007/LeetCode/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/2avika05012007/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Hash Table
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/2avika05012007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/2avika05012007/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/2avika05012007/LeetCode/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2avika05012007/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/2avika05012007/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/2avika05012007/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/2avika05012007/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/2avika05012007/LeetCode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/2avika05012007/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/2avika05012007/LeetCode/tree/master/2029-stone-game-ix) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/2avika05012007/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Memoization
