@@ -6,9 +6,7 @@ public:
         for (int i = 1; i < strs.size(); i++) {
             int j = 0;
 
-            while (j < prefix.size() &&
-                   j < strs[i].size() &&
-                   prefix[j] == strs[i][j]) {
+            while (j < prefix.size() && j < strs[i].size() && prefix[j] == strs[i][j]) {
                 j++;
             }
 
