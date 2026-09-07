@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/2avika05012007/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/2avika05012007/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/2avika05012007/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0940-distinct-subsequences-ii](https://github.com/2avika05012007/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2avika05012007/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1328-break-a-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1408-string-matching-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/2avika05012007/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/2avika05012007/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/2avika05012007/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/2avika05012007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/2avika05012007/LeetCode/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/2avika05012007/LeetCode/tree/master/1668-maximum-repeating-substring) |
