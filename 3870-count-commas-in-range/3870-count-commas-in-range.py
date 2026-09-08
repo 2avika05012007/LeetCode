@@ -1,10 +1,10 @@
 class Solution:
     def countCommas(self, n):
-        total = 0
-        threshold = 1000
+        ans = 0
+        mini = 1000
 
-        while threshold <= n:
-            total += n - threshold + 1
-            threshold *= 1000
+        while mini <= n:
+            ans += n - mini + 1
+            mini *= 1000
 
-        return total
+        return ans
