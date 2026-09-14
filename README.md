@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/2avika05012007/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2avika05012007/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/2avika05012007/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2avika05012007/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -768,4 +769,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/2avika05012007/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/2avika05012007/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
