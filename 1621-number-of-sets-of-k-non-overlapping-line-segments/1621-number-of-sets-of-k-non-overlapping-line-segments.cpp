@@ -9,7 +9,7 @@ public:
         }
 
         for (int j = 1; j <= k; j++) {
-           long long sum = 0;
+           int sum = 0;
 
             for (int i = 1; i < n; i++) {
 
