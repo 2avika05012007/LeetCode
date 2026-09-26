@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/2avika05012007/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1668-maximum-repeating-substring](https://github.com/2avika05012007/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/2avika05012007/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1859-sorting-the-sentence](https://github.com/2avika05012007/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/2avika05012007/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/2avika05012007/LeetCode/tree/master/1927-sum-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2avika05012007/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/2avika05012007/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/2avika05012007/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2032-two-out-of-three](https://github.com/2avika05012007/LeetCode/tree/master/2032-two-out-of-three) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/2avika05012007/LeetCode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/2avika05012007/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/2avika05012007/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/2avika05012007/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/2avika05012007/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/2avika05012007/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/2avika05012007/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/2avika05012007/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
