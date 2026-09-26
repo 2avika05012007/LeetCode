@@ -1,7 +1,9 @@
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
         StringBuilder ans = new StringBuilder();
+
         HashMap<String, String> map = new HashMap<>();
+
         for (List<String> pair : knowledge) {
             map.put(pair.get(0), pair.get(1));
         }
@@ -26,6 +28,7 @@ class Solution {
                 ans.append(s.charAt(i));
             }
         }
+        
         return ans.toString();
     }
 }
