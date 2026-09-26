@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/2avika05012007/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/2avika05012007/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2avika05012007/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sorting
 |  |
 | ------- |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/2avika05012007/LeetCode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/2avika05012007/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/2avika05012007/LeetCode/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Stack
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/2avika05012007/LeetCode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3903-smallest-stable-index-i](https://github.com/2avika05012007/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/2avika05012007/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Matrix
 |  |
 | ------- |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/2avika05012007/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3525-find-x-value-of-array-ii](https://github.com/2avika05012007/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -849,4 +853,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/2avika05012007/LeetCode/tree/master/0912-sort-an-array) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
