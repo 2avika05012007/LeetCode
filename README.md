@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2avika05012007/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/2avika05012007/LeetCode/tree/master/1140-stone-game-ii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/2avika05012007/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1323-maximum-69-number](https://github.com/2avika05012007/LeetCode/tree/master/1323-maximum-69-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/2avika05012007/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/2avika05012007/LeetCode/tree/master/1563-stone-game-v) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/2avika05012007/LeetCode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/2avika05012007/LeetCode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/2avika05012007/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/2avika05012007/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2avika05012007/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/2avika05012007/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/2avika05012007/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/2avika05012007/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/2avika05012007/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Backtracking
 |  |
