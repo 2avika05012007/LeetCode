@@ -3,12 +3,14 @@ class Solution {
         
         int ans = 0;
         int n = mat.length;
-        for(int i = 0; i<mat.length; i++){
-            for(int j = 0; j<mat[0].length; j++){
-                if(i == j || i + j == n - 1){
-                    ans+=mat[i][j];
-                }
-            }
+        
+        for (int i = 0; i < n; i++) {
+            ans += mat[i][i];
+            ans += mat[i][n - 1 - i];
+        }
+
+        if (n % 2 == 1) {
+            ans -= mat[n / 2][n / 2];
         }
         return ans;
     }
