@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/2avika05012007/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2avika05012007/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/2avika05012007/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/1328-break-a-palindrome) |
 | [1408-string-matching-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/2avika05012007/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2avika05012007/LeetCode/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/2avika05012007/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/2avika05012007/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/2avika05012007/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -863,4 +865,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
