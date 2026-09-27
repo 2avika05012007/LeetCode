@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/2avika05012007/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0835-image-overlap](https://github.com/2avika05012007/LeetCode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2avika05012007/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/2avika05012007/LeetCode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/2avika05012007/LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/2avika05012007/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/2avika05012007/LeetCode/tree/master/0896-monotonic-array) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2avika05012007/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/2avika05012007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/2avika05012007/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/2avika05012007/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/2avika05012007/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/2avika05012007/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0991-broken-calculator) |
