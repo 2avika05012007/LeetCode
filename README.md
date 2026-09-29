@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/2avika05012007/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/2avika05012007/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/2avika05012007/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2avika05012007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/2avika05012007/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/2avika05012007/LeetCode/tree/master/0263-ugly-number) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/2avika05012007/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/2avika05012007/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/2avika05012007/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2avika05012007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2avika05012007/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/2avika05012007/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/2avika05012007/LeetCode/tree/master/0169-majority-element) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/2avika05012007/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/2avika05012007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
