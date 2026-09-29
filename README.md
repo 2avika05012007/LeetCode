@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/2avika05012007/LeetCode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/2avika05012007/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2avika05012007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/2avika05012007/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/2avika05012007/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2avika05012007/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/2avika05012007/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/2avika05012007/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2avika05012007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/2avika05012007/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1408-string-matching-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/2avika05012007/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/2avika05012007/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/2avika05012007/LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2avika05012007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/2avika05012007/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2avika05012007/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/2avika05012007/LeetCode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/2avika05012007/LeetCode/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/2avika05012007/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/2avika05012007/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2avika05012007/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Z Algorithm
