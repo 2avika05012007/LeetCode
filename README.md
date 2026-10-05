@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/2avika05012007/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/2avika05012007/LeetCode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/2avika05012007/LeetCode/tree/master/0648-replace-words) |
+| [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/2avika05012007/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/2avika05012007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/2avika05012007/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/2avika05012007/LeetCode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/2avika05012007/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/2avika05012007/LeetCode/tree/master/0912-sort-an-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Stack
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/2avika05012007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/2avika05012007/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/2avika05012007/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/2avika05012007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2avika05012007/LeetCode/tree/master/0739-daily-temperatures) |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/2avika05012007/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/2avika05012007/LeetCode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
@@ -762,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/2avika05012007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/2avika05012007/LeetCode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/2avika05012007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2avika05012007/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -787,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/2avika05012007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/2avika05012007/LeetCode/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/2avika05012007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2avika05012007/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Function
 |  |
@@ -934,4 +940,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0707-design-linked-list) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
