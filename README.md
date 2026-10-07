@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/2avika05012007/LeetCode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/2avika05012007/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/2avika05012007/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/2avika05012007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/2avika05012007/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/2avika05012007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/2avika05012007/LeetCode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/2avika05012007/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/2avika05012007/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/2avika05012007/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/2avika05012007/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Quicksort
 |  |
