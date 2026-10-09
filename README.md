@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/2avika05012007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/2avika05012007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2avika05012007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/2avika05012007/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/2avika05012007/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/2avika05012007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/2avika05012007/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/2avika05012007/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/2avika05012007/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/2avika05012007/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/2avika05012007/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/2avika05012007/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/2avika05012007/LeetCode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/2avika05012007/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/2avika05012007/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/2avika05012007/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/2avika05012007/LeetCode/tree/master/0179-largest-number) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/2avika05012007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/2avika05012007/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/2avika05012007/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/2avika05012007/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/2avika05012007/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/2avika05012007/LeetCode/tree/master/0912-sort-an-array) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/2avika05012007/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Indexed Tree
