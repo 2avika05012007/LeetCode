@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/2avika05012007/LeetCode/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/2avika05012007/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/2avika05012007/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1791-find-center-of-star-graph](https://github.com/2avika05012007/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/2avika05012007/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/2avika05012007/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/2avika05012007/LeetCode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2avika05012007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/2avika05012007/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/2avika05012007/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1971-find-if-path-exists-in-graph](https://github.com/2avika05012007/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/2avika05012007/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/2avika05012007/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -1014,4 +1016,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/2avika05012007/LeetCode/tree/master/0127-word-ladder) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/2avika05012007/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/2avika05012007/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
