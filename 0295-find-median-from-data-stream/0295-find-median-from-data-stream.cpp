@@ -4,9 +4,6 @@ private:
     priority_queue<int, vector<int>, greater<int>> large;
 
 public:
-    MedianFinder() {
-        
-    }
     
     void addNum(int num) {
         small.push(num);
