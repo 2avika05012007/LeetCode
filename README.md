@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/2avika05012007/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/2avika05012007/LeetCode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/2avika05012007/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/2avika05012007/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/2avika05012007/LeetCode/tree/master/0344-reverse-string) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/2avika05012007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/2avika05012007/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2avika05012007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/2avika05012007/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/2avika05012007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/2avika05012007/LeetCode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/2avika05012007/LeetCode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2avika05012007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/2avika05012007/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/2avika05012007/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/2avika05012007/LeetCode/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/2avika05012007/LeetCode/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/2avika05012007/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/2avika05012007/LeetCode/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/2avika05012007/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0815-bus-routes](https://github.com/2avika05012007/LeetCode/tree/master/0815-bus-routes) |
 | [1096-brace-expansion-ii](https://github.com/2avika05012007/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -884,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/2avika05012007/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/2avika05012007/LeetCode/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/2avika05012007/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/2avika05012007/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/2avika05012007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1050,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/2avika05012007/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/2avika05012007/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/2avika05012007/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/2avika05012007/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/2avika05012007/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/2avika05012007/LeetCode/tree/master/0707-design-linked-list) |
 ## Cartesian Tree
