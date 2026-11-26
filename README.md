@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3222-find-the-winning-player-in-coin-game](https://github.com/2avika05012007/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/2avika05012007/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/2avika05012007/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/2avika05012007/LeetCode/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/2avika05012007/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/2avika05012007/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/2avika05012007/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/2avika05012007/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/2avika05012007/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/2avika05012007/LeetCode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3360-stone-removal-game](https://github.com/2avika05012007/LeetCode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/2avika05012007/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/2avika05012007/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Greedy
